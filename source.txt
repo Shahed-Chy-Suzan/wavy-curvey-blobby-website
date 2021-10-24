@@ -1,0 +1,8 @@
+
+
+//--Youtube_link: https://www.youtube.com/watch?v=lPJVi797Uy0
+//--Author's_git_repo_link: https://github.com/fireship-io/wavy-curvey-blobby-website
+//--Author's_Doc_details_link: https://fireship.io/lessons/wavy-backgrounds/
+
+//--Shape Driver https://www.shapedivider.app/
+//--Haikei App https://haikei.app/
