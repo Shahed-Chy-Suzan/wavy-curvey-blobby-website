@@ -6,3 +6,6 @@
 
 //--Shape Driver https://www.shapedivider.app/
 //--Haikei App https://haikei.app/
+
+//--My github repo: https://github.com/Shahed-Chy-Suzan/wavy-curvey-blobby-website
+
